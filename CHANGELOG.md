@@ -1,6 +1,11 @@
 # Changelog
 
 
+## Upcoming release
+
+* Dependencies:
+  - Dropped support for Python 3.10.
+
 ## Version 1.1.2 (2026-10-09)
 
 * Parsing of decay files (aka .dec files):
