@@ -75,6 +75,7 @@ docs = [
 ]
 test = [
     "decaylanguage[modeling]",
+    "numpydoc>=1.6",
     "pytest-benchmark>=5.2.0",
     "pytest-cov",
     "pytest>=7",

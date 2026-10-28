@@ -1,6 +1,15 @@
 # Changelog
 
 
+## Upcoming release
+
+* Documentation:
+  - Made the docstrings of `decaylanguage.decay.decay` numpydoc-compliant: added
+    Returns and Raises sections, fixed parameter formatting and section names,
+    and moved the constructor documentation to the class docstrings so that it
+    shows up in the API reference (#628).
+  - Added a test that checks these docstrings against numpydoc's validation rules.
+
 ## Version 1.1.2 (2026-10-09)
 
 * Parsing of decay files (aka .dec files):

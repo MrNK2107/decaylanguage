@@ -45,6 +45,7 @@ nitpick_ignore = [
     ("py:class", "lark.tree.Tree"),
     ("py:class", "pandas.core.frame.DataFrame"),
     ("py:class", "particle.particle.particle.Particle"),
+    ("py:exc", "particle.ParticleNotFound"),
     ("py:class", "pd.DataFrame"),
     ("py:mod", "decaylanguage.dec"),
     ("py:mod", "decaylanguage.decay"),
